@@ -1,5 +1,5 @@
 <h1 align="center">
-  Image Colorization with Convolutional Neural Network
+  # Image Colorization with Convolutional Neural Network
 </h1>
 Welcome to the **second** programming assignment of the Deep Learning course. 
 

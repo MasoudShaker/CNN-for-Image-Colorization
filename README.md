@@ -1,8 +1,5 @@
-<h1 align="center">
-  # Image Colorization with Convolutional Neural Network
-</h1>
+# Image Colorization with Convolutional Neural Network
 Welcome to the **second** programming assignment of the Deep Learning course. 
-
 
 The goal of this assignment is to get you familiarized with **convolutional neural networks**. 
 First, we will train a CNN model as our base model to solve the Image Colorization task as a pixel-wise classification problem. In general, Image Colorization is a difficult problem e.g. a grayscale image, may have several valid coloring images.

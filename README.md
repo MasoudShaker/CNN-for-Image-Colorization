@@ -1,7 +1,7 @@
 <h1 align="center">
   Image Colorization with Convolutional Neural Network
 </h1>
-Welcome to the second programming assignment of the Deep Learning course. 
+Welcome to the **second** programming assignment of the Deep Learning course. 
 
 
 The goal of this assignment is to get you familiarized with **convolutional neural networks**. 
